@@ -1,0 +1,5 @@
+.DS_Store
+*.xojo_uistate
+*.obsolete_*
+*.debug.app
+Builds - *
